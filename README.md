@@ -34,8 +34,8 @@ NumPy (Numerical Python) is a powerful library for numerical and scientific comp
 ## 🚀 How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/numpy-learning-scripts.git
-   cd numpy-learning-scripts
+   git clone https://github.com/prasadlonare35/NumPy.git
+   cd NumPy
 2. Run any of the Python files:
     ```bash
     python CreatingArraysWithNumPy.py
